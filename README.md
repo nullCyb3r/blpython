@@ -1,6 +1,5 @@
-Python Scripting for Ethical Hacking....
+<h1>Ethical Hacking with Python: A Practical Guide</h1><br>
+<p>Author : </p><h2>LASZIO BOCSO</h2>
 
 
-
-Book Name : Ethical Hacking with Python: A Practical Guide
-Author : LASZLO BOCSO
+<p>Learning by <b>nullCyb3r</b></p>
